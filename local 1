@@ -1,0 +1,5 @@
+git init
+git remote add origin https://github.com/JosephTarbouriech/gpl1.git
+git add local1
+git commit -m "Add local1 file"
+git push -u origin master
